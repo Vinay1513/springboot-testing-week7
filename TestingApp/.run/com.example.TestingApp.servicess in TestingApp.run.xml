@@ -1,0 +1,24 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TestingApp in TestingApp" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="TestingApp" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.example.TestingApp.servicess.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.example.TestingApp.servicess.EmployeeServiceImplTest" />
+        <option name="ENABLED" value="false" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="com.example.TestingApp.servicess" />
+    <option name="MAIN_CLASS_NAME" value="" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="directory" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <dir value="$PROJECT_DIR$/target/test-classes/com/example/TestingApp" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
